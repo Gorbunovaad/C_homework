@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\С#\task23\bin\Debug\net6.0\task23.exe
+C:\Users\Анастасия\Desktop\С#\task23\bin\Debug\net6.0\task23.deps.json
+C:\Users\Анастасия\Desktop\С#\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+C:\Users\Анастасия\Desktop\С#\task23\bin\Debug\net6.0\task23.dll
+C:\Users\Анастасия\Desktop\С#\task23\bin\Debug\net6.0\task23.pdb
+C:\Users\Анастасия\Desktop\С#\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\С#\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\С#\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\С#\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\С#\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\С#\task23\obj\Debug\net6.0\task23.dll
+C:\Users\Анастасия\Desktop\С#\task23\obj\Debug\net6.0\refint\task23.dll
+C:\Users\Анастасия\Desktop\С#\task23\obj\Debug\net6.0\task23.pdb
+C:\Users\Анастасия\Desktop\С#\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\С#\task23\obj\Debug\net6.0\ref\task23.dll
